@@ -1,5 +1,5 @@
-net-browserify
-==============
+net-browserify-stub
+===================
 
 `net` module for browserify & jspm, as a stub with only the trivial functions implemented.
 
